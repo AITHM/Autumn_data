@@ -261,7 +261,56 @@
                 " 2021",
                 " 10.1016/j.lanwpc.2021.100135",
                 ""
-            ]
+            ],[
+			  "Impact of Case Detection and COVID-19-Related Disruptions on Tuberculosis in Vietnam: A Modeling Analysis",
+			  "An age-structured dynamic tuberculosis model assessed the consequences of COVID-19-related disruption in Vietnam. The best-fitting explanation for the 2021 decline in notifications was reduced case detection rather than reduced transmission alone. The disruption was estimated to cause 2,000 additional tuberculosis episodes and 1,100 deaths in 2021, with long-term effects extending to 2035. Enhanced case detection could avert substantial future morbidity and mortality, supporting sustained investment in diagnostics, resilient services and patient-centred case finding.",
+			  "https://pubmed.ncbi.nlm.nih.gov/40795091/",
+			  "Bui, V. L. Ragonnet, R. Hughes, A. E. Shipman, D. S. McBryde, E. S. Nguyen, B. H. Do, H. N. Ha, T. S. Fox, G. J. Trauer, J. M.",
+			  "J Infect Dis",
+			  "2025",
+			  "10.1093/infdis/jiaf406",
+			  ""
+			],
+			[
+			  "Bayesian spatio-temporal modelling of tuberculosis in Vietnam: Insights from a local-area analysis",
+			  "Bayesian spatio-temporal models were applied to tuberculosis notifications from 226 communes in Nam Dinh Province, Vietnam, between 2013 and 2022. The analysis identified persistent spatial clustering and substantial local variation. The best-performing model linked higher notification rates to poverty: each percentage-point increase in the proportion of poor households was associated with a 1.3% increase in tuberculosis notifications. The study demonstrates how local socioeconomic and surveillance data can identify geographic inequities and guide targeted tuberculosis control.",
+			  "https://pubmed.ncbi.nlm.nih.gov/39935248/",
+			  "Bui, L. V. Ragonnet, R. Hughes, A. E. Nguyen, H. B. Do, N. H. McBryde, E. S. Sexton, J. Nguyen, T. P. Shipman, D. S. Fox, G. J. Trauer, J. M.",
+			  "Epidemiol Infect",
+			  "2025",
+			  "10.1017/S0950268825000214",
+			  ""
+			],
+			[
+			  "Agent-based modelling of Mycobacterium tuberculosis transmission: a systematic review",
+			  "This systematic review examined how agent-based, individual-based and microsimulation models have represented Mycobacterium tuberculosis transmission. Twenty-six studies were included. Many captured population heterogeneity and household structure, but spatial structure, economic evaluation and transparent code sharing were inconsistent; only eight studies provided publicly accessible code. Agent-based models can represent heterogeneous mixing and household transmission more richly than conventional models, but require careful calibration, computational resources, open-source code and standardised reporting.",
+			  "https://pubmed.ncbi.nlm.nih.gov/39643867/",
+			  "Bui, V. L. Hughes, A. E. Ragonnet, R. Meehan, M. T. Henderson, A. McBryde, E. S. Trauer, J. M.",
+			  "BMC Infect Dis",
+			  "2024",
+			  "10.1186/s12879-024-10245-y",
+			  ""
+			],
+			[
+			  "A successful UN High-Level Meeting on antimicrobial resistance must build on the 2023 UN High-Level Meeting on tuberculosis",
+			  "This Comment argues that the 2024 UN High-Level Meeting on antimicrobial resistance should build on commitments made at the 2023 UN High-Level Meeting on tuberculosis. It calls for aligned action on prevention, diagnostics and surveillance, equitable access to effective antibiotics, research and development, multisectoral governance and accountability, recognising drug-resistant tuberculosis as a major component of the global antimicrobial-resistance challenge.",
+			  "https://pubmed.ncbi.nlm.nih.gov/39030054/",
+			  "Cirillo, D. Anthony, R. Gagneux, S. Horsburgh, C. R. Hasan, R. Darboe, S. Laniado-Laborin, R. Probandari, A. Tukvadze, N. Arcêncio, R. A. Bimba, J. S. Brighenti, S. Chesov, D. Chiang, C. Y. Kalmambetova, G. Knight, G. Konstantynovska, O. Kruse, A. Lange, C. Mayanja-Kizza, H. McBryde, E. Min, J. Sanchez-Montalva, A. Sulis, G. Tsogt, B. Van Der Walt, M. Yeboah-Manu, D. Hauser, J.",
+			  "Lancet Glob Health",
+			  "2024",
+			  "10.1016/S2214-109X(24)00229-8",
+			  ""
+			],
+			[
+			  "Critical Review of Tuberculosis Diagnosis in Children from Papua New Guinea Presenting to Health Facilities in the Torres Strait Islands, Australia",
+			  "Paediatric tuberculosis is difficult to diagnose in remote and high-burden settings. This retrospective review compared local clinical practice with the modified Keith Edwards TB Score, The Union Desk Guide and the 2022 World Health Organization paediatric tuberculosis algorithm among 66 Papua New Guinea children presenting in the Torres Strait between 2016 and 2019. Seven children had bacteriologically confirmed tuberculosis. Agreement between approaches was moderate, with the greatest concordance between The Union Desk Guide and the World Health Organization algorithm. The findings support more consistent, context-appropriate diagnostic pathways and improved access to bacteriological confirmation.",
+			  "https://pubmed.ncbi.nlm.nih.gov/38138091/",
+			  "Foster, J. Marais, B. J. Mendez, D. McBryde, E. S.",
+			  "Microorganisms",
+			  "2023",
+			  "10.3390/microorganisms11122947",
+			  ""
+			],
         ]
     },
     {
